@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-
+pip3 install beautifulsoup4, requests
 '''
 
 from bs4 import BeautifulSoup
